@@ -72,7 +72,7 @@ function setup() {
 
   
   trex.setCollider("rectangle",0,0,65,trex.height);
-  trex.debug = true
+  
   
   score = 0;
   highScore.push(score);
